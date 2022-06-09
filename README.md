@@ -4,7 +4,7 @@
 - 🎓 I'm graduated in systems analysis and development.
 - 🌍 I'm from Bahia, Brazil.
 - 👀 I’m interested in frontend and backend.
-- 🔭 I’m getting deeper into reactJS and node.js development.
+- 🔭 I’m getting deeper into ReactJS and Node.js development.
 - 🌱 I’m currently learning english.
 - 💞️ I’m looking to collaborate on meaningful projects.
 - 💬 Ask me about [ReactJS, Next.js, TypeScript, Node.js].
