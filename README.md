@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Marcelo
 
-<!--
-**mpirescarvalho/mpirescarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 I'm a 24 years old fullstack developer.
+- 🎓 I'm graduated in systems analysis and development.
+- 🌍 I'm from Bahia, Brazil.
+- 👀 I’m interested in frontend and backend.
+- 🔭 I’m getting deeper into reactJS and node.js development.
+- 🌱 I’m currently learning english.
+- 💞️ I’m looking to collaborate on meaningful projects.
+- 💬 Ask me about [ReactJS, Next.js, TypeScript, Node.js].
+- 👾 Fun fact: 0.1 + 0.2 = 0.30000000000000004 in JavaScript.
+- ⚡ Fun fact about me: I like pop science, physics and astronomy.
+- 📫 How to reach me: [@marcelo_pcarvalho](https://www.linkedin.com/in/marcelo-pcarvalho/)
